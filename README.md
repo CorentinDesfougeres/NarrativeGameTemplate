@@ -1,7 +1,9 @@
 # NarrativeGameTemplate
 A template for making narrative games in Unity. 
-The system is composed of Storylets, each containing conditions allowing them to run and effect they do once running, and a Game Manager which check what storylets are currently available (conditions checked) and choose among those which one is most relevant to run.
 
+The system is composed of storylets, each containing conditions allowing them to run and effect they do once running, and a game manager which check what storylets are currently available and choose among those which one is most relevant to run.
+
+...
 
 Notable inspirations for the system are :
   - Left4Dead dialogue system, as presented by Elan Ruskin in his 2012 GDC Talk ( https://www.youtube.com/watch?v=tAbBID3N64A )
@@ -10,6 +12,7 @@ Notable inspirations for the system are :
   - FailBetter's storylet organisation in Fallen London and in their StoryNexus engine.
   - Various articles by Emily Short on storylet design in general, and salience-based ones in particular. Specifically, my terminology used to describe the design comes from this article : https://emshort.blog/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/
 
+...
 
 /!\ Dependencies :
   - Odin Inspector is used for the serialisation and to make creating and managing content through the inspector less tedious. Asset store page : https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041?aid=1100lHSw&utm_source=aff
