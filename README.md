@@ -1,5 +1,6 @@
 # NarrativeGameTemplate
-A template for making narrative games in Unity.
+A template for making narrative games in Unity. 
+The system is composed of Storylets, each containing conditions allowing them to run and effect they do once running, and a Game Manager which check what storylets are currently available (conditions checked) and choose among those which one is most relevant to run.
 
 
 Notable inspirations for the system are :
