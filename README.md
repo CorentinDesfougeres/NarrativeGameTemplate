@@ -1,2 +1,10 @@
 # NarrativeGameTemplate
-A template for narrative games, using a salience based storylet system.
+A template for narrative games, using a salience-based storylet system.
+
+
+Notable inspirations for the system are :
+  - Left4Dead dialogue system, as presented by Elan Ruskin in his 2012 GDC Talk ( https://www.youtube.com/watch?v=tAbBID3N64A )
+  - Firewatch dialogue system, as presented by William Armstrong and Patrick Ewing in their 2017 GDC talks ( https://www.youtube.com/watch?v=wj-2vbiyHnI )
+  - The King Of Chicago Narraton system, as presented by Doug Sharp in his 1989 GDC talk ( https://dougsharp.wordpress.com/story-vs-game-the-battle-of-interactive-fiction/ ) 
+  - FailBetter's storylet organisation in Fallen London and in their StoryNexus engine.
+  - Various articles by Emily Short on storylet design in general, and salience-based ones in particular. Specifically, my terminology used to describe the design comes from this article : https://emshort.blog/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/
