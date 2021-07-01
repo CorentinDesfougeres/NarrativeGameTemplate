@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Sirenix.OdinInspector;
+
+    #ROOTNAMESPACEBEGIN#
+namespace Tetri
+{
+	namespace Sally
+	{
+
+		public class #SCRIPTNAME#
+		{
+			#NOTRIM#
+		}
+	
+	}
+}
+#ROOTNAMESPACEEND#
