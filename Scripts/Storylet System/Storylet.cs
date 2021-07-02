@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Sirenix.OdinInspector;
+using UnityEngine.Events;
 
 namespace Tetri
 {
@@ -12,7 +13,12 @@ namespace Tetri
         public class Storylet : SerializedScriptableObject
         {
 			[TableList]
-			public List<Event> Effects;
+			public List<IStoryletCondition> Conditions;
+
+			[TableList]
+			public List<UnityEvent> Effects;
+
+			public int Priority;
         }
 
 	}

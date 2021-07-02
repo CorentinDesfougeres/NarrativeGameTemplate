@@ -8,10 +8,9 @@ namespace Tetri
 	namespace Sally
 	{
 
-		public interface ISalienceRule
+		public class DeltaSalienceRules
 		{
-			Storylet Pick(List<Storylet> storylets);
-			Storylet[] Pick(List<Storylet> storylets , int number);
+			
 		}
 	
 	}

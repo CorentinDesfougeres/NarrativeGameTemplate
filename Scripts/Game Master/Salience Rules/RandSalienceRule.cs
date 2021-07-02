@@ -8,7 +8,7 @@ namespace Tetri
 	namespace Sally
 	{
 
-		public class Condition
+		public class RandSalienceRule
 		{
 			
 		}

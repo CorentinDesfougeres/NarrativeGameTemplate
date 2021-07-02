@@ -12,8 +12,14 @@ namespace Tetri
 		public class GlobalStoryletTable : SerializedScriptableObject , IStoryletTable
 		{
 
-			[TableList]
+			#region  IStoryletTable implementation
+
+			[TableList] [ShowInInspector]
 			public List<Storylet> Storylets{get;set;}
+
+			#endregion
+
+			
 			
 		}
 	
