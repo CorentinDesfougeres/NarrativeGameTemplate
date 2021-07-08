@@ -8,7 +8,7 @@ namespace Tetri
 	namespace Sally
 	{
 
-		public class WoldStateTagInt
+		public class WorldStateTagInt : IWorldStateTag
 		{
 			
 			# region IWorldStateTag implementation
