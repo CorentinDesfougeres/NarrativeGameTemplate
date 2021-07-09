@@ -20,13 +20,12 @@ namespace Tetri
 
 			public bool IsValid()
 			{
-				return Variable == WantTrue;
+				return Variable.isTrue == WantTrue;
 			}
 
 			#endregion
 
-
-			public bool Variable;
+			public WorldStateTagBool Variable;
 
 			public bool WantTrue;
 

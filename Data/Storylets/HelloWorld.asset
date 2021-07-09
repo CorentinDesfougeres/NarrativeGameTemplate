@@ -32,8 +32,14 @@ MonoBehaviour:
       Entry: 7
       Data: 1|Tetri.Sally.BoolStoryletCondition, Assembly-CSharp
     - Name: Variable
+      Entry: 7
+      Data: 2|Tetri.Sally.WorldStateTagBool, Assembly-CSharp
+    - Name: isTrue
       Entry: 5
       Data: false
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: WantTrue
       Entry: 5
       Data: false
@@ -42,10 +48,10 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 2|Tetri.Sally.BoolStoryletCondition, Assembly-CSharp
+      Data: 3|Tetri.Sally.BoolStoryletCondition, Assembly-CSharp
     - Name: Variable
-      Entry: 5
-      Data: false
+      Entry: 6
+      Data: 
     - Name: WantTrue
       Entry: 5
       Data: false
